@@ -1,0 +1,757 @@
+province,crime_category,financial_year,incident_count
+Eastern Cape,Aggravated Robberies,2011,12476
+Eastern Cape,Aggravated Robberies,2012,11751
+Eastern Cape,Aggravated Robberies,2013,13443
+Eastern Cape,Aggravated Robberies,2014,13245
+Eastern Cape,Aggravated Robberies,2015,12777
+Eastern Cape,Aggravated Robberies,2016,13688
+Eastern Cape,Aggravated Robberies,2017,13485
+Eastern Cape,Aggravated Robberies,2018,13578
+Eastern Cape,Aggravated Robberies,2019,13983
+Eastern Cape,Aggravated Robberies,2020,11458
+Eastern Cape,Aggravated Robberies,2021,5723
+Eastern Cape,Aggravated Robberies,2022,6433
+Eastern Cape,Contact,2011,75779
+Eastern Cape,Contact,2012,72650
+Eastern Cape,Contact,2013,73032
+Eastern Cape,Contact,2014,68654
+Eastern Cape,Contact,2015,67258
+Eastern Cape,Contact,2016,65524
+Eastern Cape,Contact,2017,65393
+Eastern Cape,Contact,2018,68416
+Eastern Cape,Contact,2019,68545
+Eastern Cape,Contact,2020,59093
+Eastern Cape,Contact,2021,66581
+Eastern Cape,Contact,2022,71191
+Eastern Cape,Contact Related,2011,13687
+Eastern Cape,Contact Related,2012,13514
+Eastern Cape,Contact Related,2013,13735
+Eastern Cape,Contact Related,2014,13184
+Eastern Cape,Contact Related,2015,12498
+Eastern Cape,Contact Related,2016,12810
+Eastern Cape,Contact Related,2017,12027
+Eastern Cape,Contact Related,2018,12738
+Eastern Cape,Contact Related,2019,12721
+Eastern Cape,Contact Related,2020,11673
+Eastern Cape,Contact Related,2021,13166
+Eastern Cape,Contact Related,2022,13459
+Eastern Cape,Police Action,2011,20970
+Eastern Cape,Police Action,2012,22100
+Eastern Cape,Police Action,2013,24334
+Eastern Cape,Police Action,2014,24922
+Eastern Cape,Police Action,2015,24711
+Eastern Cape,Police Action,2016,26182
+Eastern Cape,Police Action,2017,27001
+Eastern Cape,Police Action,2018,22558
+Eastern Cape,Police Action,2019,20869
+Eastern Cape,Police Action,2020,13427
+Eastern Cape,Police Action,2021,14789
+Eastern Cape,Police Action,2022,16184
+Eastern Cape,Other Serious,2011,43690
+Eastern Cape,Other Serious,2012,40986
+Eastern Cape,Other Serious,2013,40725
+Eastern Cape,Other Serious,2014,37188
+Eastern Cape,Other Serious,2015,35238
+Eastern Cape,Other Serious,2016,36461
+Eastern Cape,Other Serious,2017,34256
+Eastern Cape,Other Serious,2018,36271
+Eastern Cape,Other Serious,2019,37480
+Eastern Cape,Other Serious,2020,32999
+Eastern Cape,Other Serious,2021,36542
+Eastern Cape,Other Serious,2022,39447
+Eastern Cape,Property Related,2011,55742
+Eastern Cape,Property Related,2012,55484
+Eastern Cape,Property Related,2013,53240
+Eastern Cape,Property Related,2014,53536
+Eastern Cape,Property Related,2015,51083
+Eastern Cape,Property Related,2016,53097
+Eastern Cape,Property Related,2017,51513
+Eastern Cape,Property Related,2018,51875
+Eastern Cape,Property Related,2019,49576
+Eastern Cape,Property Related,2020,42515
+Eastern Cape,Property Related,2021,40587
+Eastern Cape,Property Related,2022,43066
+Eastern Cape,Sexual Offences,2011,9001
+Eastern Cape,Sexual Offences,2012,9288
+Eastern Cape,Sexual Offences,2013,9616
+Eastern Cape,Sexual Offences,2014,9224
+Eastern Cape,Sexual Offences,2015,8797
+Eastern Cape,Sexual Offences,2016,8050
+Eastern Cape,Sexual Offences,2017,8094
+Eastern Cape,Sexual Offences,2018,8731
+Eastern Cape,Sexual Offences,2019,8708
+Eastern Cape,Sexual Offences,2020,7445
+Eastern Cape,Sexual Offences,2021,8404
+Eastern Cape,Sexual Offences,2022,8361
+Free State,Aggravated Robberies,2011,5323
+Free State,Aggravated Robberies,2012,5791
+Free State,Aggravated Robberies,2013,5347
+Free State,Aggravated Robberies,2014,5239
+Free State,Aggravated Robberies,2015,4778
+Free State,Aggravated Robberies,2016,5147
+Free State,Aggravated Robberies,2017,5032
+Free State,Aggravated Robberies,2018,5339
+Free State,Aggravated Robberies,2019,5119
+Free State,Aggravated Robberies,2020,3992
+Free State,Aggravated Robberies,2021,1876
+Free State,Aggravated Robberies,2022,1838
+Free State,Contact,2011,47486
+Free State,Contact,2012,48480
+Free State,Contact,2013,45945
+Free State,Contact,2014,42314
+Free State,Contact,2015,41100
+Free State,Contact,2016,37741
+Free State,Contact,2017,35725
+Free State,Contact,2018,36879
+Free State,Contact,2019,36059
+Free State,Contact,2020,31668
+Free State,Contact,2021,36356
+Free State,Contact,2022,39829
+Free State,Contact Related,2011,9134
+Free State,Contact Related,2012,9147
+Free State,Contact Related,2013,8424
+Free State,Contact Related,2014,7942
+Free State,Contact Related,2015,7816
+Free State,Contact Related,2016,6838
+Free State,Contact Related,2017,6232
+Free State,Contact Related,2018,6116
+Free State,Contact Related,2019,5740
+Free State,Contact Related,2020,5769
+Free State,Contact Related,2021,6806
+Free State,Contact Related,2022,7123
+Free State,Police Action,2011,6356
+Free State,Police Action,2012,8334
+Free State,Police Action,2013,10570
+Free State,Police Action,2014,11387
+Free State,Police Action,2015,12791
+Free State,Police Action,2016,15015
+Free State,Police Action,2017,16011
+Free State,Police Action,2018,11907
+Free State,Police Action,2019,8313
+Free State,Police Action,2020,6251
+Free State,Police Action,2021,7759
+Free State,Police Action,2022,9816
+Free State,Other Serious,2011,29529
+Free State,Other Serious,2012,28736
+Free State,Other Serious,2013,26042
+Free State,Other Serious,2014,24134
+Free State,Other Serious,2015,23502
+Free State,Other Serious,2016,23348
+Free State,Other Serious,2017,20235
+Free State,Other Serious,2018,22006
+Free State,Other Serious,2019,21631
+Free State,Other Serious,2020,18708
+Free State,Other Serious,2021,21875
+Free State,Other Serious,2022,23735
+Free State,Property Related,2011,31772
+Free State,Property Related,2012,34738
+Free State,Property Related,2013,33234
+Free State,Property Related,2014,31162
+Free State,Property Related,2015,30622
+Free State,Property Related,2016,29733
+Free State,Property Related,2017,28653
+Free State,Property Related,2018,28778
+Free State,Property Related,2019,27567
+Free State,Property Related,2020,22626
+Free State,Property Related,2021,22900
+Free State,Property Related,2022,24768
+Free State,Sexual Offences,2011,4785
+Free State,Sexual Offences,2012,5098
+Free State,Sexual Offences,2013,4584
+Free State,Sexual Offences,2014,4094
+Free State,Sexual Offences,2015,3928
+Free State,Sexual Offences,2016,3488
+Free State,Sexual Offences,2017,3284
+Free State,Sexual Offences,2018,3457
+Free State,Sexual Offences,2019,3746
+Free State,Sexual Offences,2020,2971
+Free State,Sexual Offences,2021,3416
+Free State,Sexual Offences,2022,3442
+Gauteng,Aggravated Robberies,2011,35148
+Gauteng,Aggravated Robberies,2012,35717
+Gauteng,Aggravated Robberies,2013,42506
+Gauteng,Aggravated Robberies,2014,47362
+Gauteng,Aggravated Robberies,2015,49792
+Gauteng,Aggravated Robberies,2016,53793
+Gauteng,Aggravated Robberies,2017,51706
+Gauteng,Aggravated Robberies,2018,52040
+Gauteng,Aggravated Robberies,2019,53927
+Gauteng,Aggravated Robberies,2020,44109
+Gauteng,Aggravated Robberies,2021,26033
+Gauteng,Aggravated Robberies,2022,26599
+Gauteng,Contact,2011,160289
+Gauteng,Contact,2012,153610
+Gauteng,Contact,2013,160881
+Gauteng,Contact,2014,167264
+Gauteng,Contact,2015,172814
+Gauteng,Contact,2016,171466
+Gauteng,Contact,2017,170640
+Gauteng,Contact,2018,174894
+Gauteng,Contact,2019,177737
+Gauteng,Contact,2020,151911
+Gauteng,Contact,2021,171026
+Gauteng,Contact,2022,181837
+Gauteng,Contact Related,2011,37796
+Gauteng,Contact Related,2012,36199
+Gauteng,Contact Related,2013,35757
+Gauteng,Contact Related,2014,35847
+Gauteng,Contact Related,2015,35312
+Gauteng,Contact Related,2016,34023
+Gauteng,Contact Related,2017,32456
+Gauteng,Contact Related,2018,31275
+Gauteng,Contact Related,2019,29232
+Gauteng,Contact Related,2020,24996
+Gauteng,Contact Related,2021,29399
+Gauteng,Contact Related,2022,29252
+Gauteng,Police Action,2011,51085
+Gauteng,Police Action,2012,64337
+Gauteng,Police Action,2013,104858
+Gauteng,Police Action,2014,100267
+Gauteng,Police Action,2015,91799
+Gauteng,Police Action,2016,95403
+Gauteng,Police Action,2017,107614
+Gauteng,Police Action,2018,90476
+Gauteng,Police Action,2019,83090
+Gauteng,Police Action,2020,47859
+Gauteng,Police Action,2021,52608
+Gauteng,Police Action,2022,59348
+Gauteng,Other Serious,2011,164163
+Gauteng,Other Serious,2012,159302
+Gauteng,Other Serious,2013,159385
+Gauteng,Other Serious,2014,155820
+Gauteng,Other Serious,2015,148436
+Gauteng,Other Serious,2016,142974
+Gauteng,Other Serious,2017,135087
+Gauteng,Other Serious,2018,134273
+Gauteng,Other Serious,2019,129696
+Gauteng,Other Serious,2020,106889
+Gauteng,Other Serious,2021,115972
+Gauteng,Other Serious,2022,128695
+Gauteng,Property Related,2011,147690
+Gauteng,Property Related,2012,153759
+Gauteng,Property Related,2013,155188
+Gauteng,Property Related,2014,155912
+Gauteng,Property Related,2015,150955
+Gauteng,Property Related,2016,154761
+Gauteng,Property Related,2017,140476
+Gauteng,Property Related,2018,133563
+Gauteng,Property Related,2019,126844
+Gauteng,Property Related,2020,90906
+Gauteng,Property Related,2021,91075
+Gauteng,Property Related,2022,94057
+Gauteng,Sexual Offences,2011,11512
+Gauteng,Sexual Offences,2012,11113
+Gauteng,Sexual Offences,2013,10264
+Gauteng,Sexual Offences,2014,9902
+Gauteng,Sexual Offences,2015,9510
+Gauteng,Sexual Offences,2016,9566
+Gauteng,Sexual Offences,2017,10116
+Gauteng,Sexual Offences,2018,10752
+Gauteng,Sexual Offences,2019,10810
+Gauteng,Sexual Offences,2020,9749
+Gauteng,Sexual Offences,2021,11178
+Gauteng,Sexual Offences,2022,11160
+KwaZulu-Natal,Aggravated Robberies,2011,18417
+KwaZulu-Natal,Aggravated Robberies,2012,19923
+KwaZulu-Natal,Aggravated Robberies,2013,20957
+KwaZulu-Natal,Aggravated Robberies,2014,20881
+KwaZulu-Natal,Aggravated Robberies,2015,21061
+KwaZulu-Natal,Aggravated Robberies,2016,22327
+KwaZulu-Natal,Aggravated Robberies,2017,21543
+KwaZulu-Natal,Aggravated Robberies,2018,22110
+KwaZulu-Natal,Aggravated Robberies,2019,22824
+KwaZulu-Natal,Aggravated Robberies,2020,20964
+KwaZulu-Natal,Aggravated Robberies,2021,12027
+KwaZulu-Natal,Aggravated Robberies,2022,13372
+KwaZulu-Natal,Contact,2011,105443
+KwaZulu-Natal,Contact,2012,105444
+KwaZulu-Natal,Contact,2013,101983
+KwaZulu-Natal,Contact,2014,98757
+KwaZulu-Natal,Contact,2015,97870
+KwaZulu-Natal,Contact,2016,95153
+KwaZulu-Natal,Contact,2017,94914
+KwaZulu-Natal,Contact,2018,97505
+KwaZulu-Natal,Contact,2019,101154
+KwaZulu-Natal,Contact,2020,88851
+KwaZulu-Natal,Contact,2021,103725
+KwaZulu-Natal,Contact,2022,109916
+KwaZulu-Natal,Contact Related,2011,16424
+KwaZulu-Natal,Contact Related,2012,16616
+KwaZulu-Natal,Contact Related,2013,15850
+KwaZulu-Natal,Contact Related,2014,15459
+KwaZulu-Natal,Contact Related,2015,15534
+KwaZulu-Natal,Contact Related,2016,14709
+KwaZulu-Natal,Contact Related,2017,13637
+KwaZulu-Natal,Contact Related,2018,14458
+KwaZulu-Natal,Contact Related,2019,14120
+KwaZulu-Natal,Contact Related,2020,13227
+KwaZulu-Natal,Contact Related,2021,16512
+KwaZulu-Natal,Contact Related,2022,14749
+KwaZulu-Natal,Police Action,2011,55907
+KwaZulu-Natal,Police Action,2012,62908
+KwaZulu-Natal,Police Action,2013,64896
+KwaZulu-Natal,Police Action,2014,65418
+KwaZulu-Natal,Police Action,2015,64875
+KwaZulu-Natal,Police Action,2016,71390
+KwaZulu-Natal,Police Action,2017,80143
+KwaZulu-Natal,Police Action,2018,60283
+KwaZulu-Natal,Police Action,2019,54199
+KwaZulu-Natal,Police Action,2020,29371
+KwaZulu-Natal,Police Action,2021,30794
+KwaZulu-Natal,Police Action,2022,32189
+KwaZulu-Natal,Other Serious,2011,78241
+KwaZulu-Natal,Other Serious,2012,77601
+KwaZulu-Natal,Other Serious,2013,75655
+KwaZulu-Natal,Other Serious,2014,72967
+KwaZulu-Natal,Other Serious,2015,68616
+KwaZulu-Natal,Other Serious,2016,67284
+KwaZulu-Natal,Other Serious,2017,63543
+KwaZulu-Natal,Other Serious,2018,65970
+KwaZulu-Natal,Other Serious,2019,64128
+KwaZulu-Natal,Other Serious,2020,53945
+KwaZulu-Natal,Other Serious,2021,58294
+KwaZulu-Natal,Other Serious,2022,63665
+KwaZulu-Natal,Property Related,2011,84433
+KwaZulu-Natal,Property Related,2012,91128
+KwaZulu-Natal,Property Related,2013,88205
+KwaZulu-Natal,Property Related,2014,86814
+KwaZulu-Natal,Property Related,2015,86385
+KwaZulu-Natal,Property Related,2016,83492
+KwaZulu-Natal,Property Related,2017,80207
+KwaZulu-Natal,Property Related,2018,78995
+KwaZulu-Natal,Property Related,2019,74804
+KwaZulu-Natal,Property Related,2020,62054
+KwaZulu-Natal,Property Related,2021,61808
+KwaZulu-Natal,Property Related,2022,59887
+KwaZulu-Natal,Sexual Offences,2011,11034
+KwaZulu-Natal,Sexual Offences,2012,10964
+KwaZulu-Natal,Sexual Offences,2013,9889
+KwaZulu-Natal,Sexual Offences,2014,9079
+KwaZulu-Natal,Sexual Offences,2015,8947
+KwaZulu-Natal,Sexual Offences,2016,8484
+KwaZulu-Natal,Sexual Offences,2017,8759
+KwaZulu-Natal,Sexual Offences,2018,9308
+KwaZulu-Natal,Sexual Offences,2019,9809
+KwaZulu-Natal,Sexual Offences,2020,8201
+KwaZulu-Natal,Sexual Offences,2021,9617
+KwaZulu-Natal,Sexual Offences,2022,10160
+Limpopo,Aggravated Robberies,2011,3652
+Limpopo,Aggravated Robberies,2012,3917
+Limpopo,Aggravated Robberies,2013,5163
+Limpopo,Aggravated Robberies,2014,6123
+Limpopo,Aggravated Robberies,2015,6723
+Limpopo,Aggravated Robberies,2016,6745
+Limpopo,Aggravated Robberies,2017,7048
+Limpopo,Aggravated Robberies,2018,7006
+Limpopo,Aggravated Robberies,2019,7466
+Limpopo,Aggravated Robberies,2020,6105
+Limpopo,Aggravated Robberies,2021,3548
+Limpopo,Aggravated Robberies,2022,3931
+Limpopo,Contact,2011,38826
+Limpopo,Contact,2012,36786
+Limpopo,Contact,2013,35953
+Limpopo,Contact,2014,37971
+Limpopo,Contact,2015,40391
+Limpopo,Contact,2016,36764
+Limpopo,Contact,2017,35068
+Limpopo,Contact,2018,35266
+Limpopo,Contact,2019,34780
+Limpopo,Contact,2020,31120
+Limpopo,Contact,2021,37690
+Limpopo,Contact,2022,42142
+Limpopo,Contact Related,2011,7535
+Limpopo,Contact Related,2012,7296
+Limpopo,Contact Related,2013,7145
+Limpopo,Contact Related,2014,7544
+Limpopo,Contact Related,2015,8225
+Limpopo,Contact Related,2016,7352
+Limpopo,Contact Related,2017,7246
+Limpopo,Contact Related,2018,7161
+Limpopo,Contact Related,2019,6943
+Limpopo,Contact Related,2020,6866
+Limpopo,Contact Related,2021,7768
+Limpopo,Contact Related,2022,8171
+Limpopo,Police Action,2011,9081
+Limpopo,Police Action,2012,12402
+Limpopo,Police Action,2013,14269
+Limpopo,Police Action,2014,18321
+Limpopo,Police Action,2015,17709
+Limpopo,Police Action,2016,20044
+Limpopo,Police Action,2017,27262
+Limpopo,Police Action,2018,23249
+Limpopo,Police Action,2019,16920
+Limpopo,Police Action,2020,13767
+Limpopo,Police Action,2021,11751
+Limpopo,Police Action,2022,11967
+Limpopo,Other Serious,2011,26786
+Limpopo,Other Serious,2012,25690
+Limpopo,Other Serious,2013,26189
+Limpopo,Other Serious,2014,26459
+Limpopo,Other Serious,2015,27447
+Limpopo,Other Serious,2016,28524
+Limpopo,Other Serious,2017,24381
+Limpopo,Other Serious,2018,25081
+Limpopo,Other Serious,2019,23780
+Limpopo,Other Serious,2020,20132
+Limpopo,Other Serious,2021,22673
+Limpopo,Other Serious,2022,26767
+Limpopo,Property Related,2011,29335
+Limpopo,Property Related,2012,28533
+Limpopo,Property Related,2013,31479
+Limpopo,Property Related,2014,31669
+Limpopo,Property Related,2015,32081
+Limpopo,Property Related,2016,31240
+Limpopo,Property Related,2017,28725
+Limpopo,Property Related,2018,28468
+Limpopo,Property Related,2019,28449
+Limpopo,Property Related,2020,22993
+Limpopo,Property Related,2021,23440
+Limpopo,Property Related,2022,24614
+Limpopo,Sexual Offences,2011,4836
+Limpopo,Sexual Offences,2012,4866
+Limpopo,Sexual Offences,2013,4423
+Limpopo,Sexual Offences,2014,4312
+Limpopo,Sexual Offences,2015,4369
+Limpopo,Sexual Offences,2016,3828
+Limpopo,Sexual Offences,2017,3862
+Limpopo,Sexual Offences,2018,4060
+Limpopo,Sexual Offences,2019,3990
+Limpopo,Sexual Offences,2020,3720
+Limpopo,Sexual Offences,2021,4309
+Limpopo,Sexual Offences,2022,4715
+Mpumalanga,Aggravated Robberies,2011,5681
+Mpumalanga,Aggravated Robberies,2012,5198
+Mpumalanga,Aggravated Robberies,2013,5252
+Mpumalanga,Aggravated Robberies,2014,5656
+Mpumalanga,Aggravated Robberies,2015,5996
+Mpumalanga,Aggravated Robberies,2016,6702
+Mpumalanga,Aggravated Robberies,2017,6757
+Mpumalanga,Aggravated Robberies,2018,7091
+Mpumalanga,Aggravated Robberies,2019,7672
+Mpumalanga,Aggravated Robberies,2020,7004
+Mpumalanga,Aggravated Robberies,2021,5151
+Mpumalanga,Aggravated Robberies,2022,5052
+Mpumalanga,Contact,2011,36661
+Mpumalanga,Contact,2012,33692
+Mpumalanga,Contact,2013,31775
+Mpumalanga,Contact,2014,31886
+Mpumalanga,Contact,2015,32737
+Mpumalanga,Contact,2016,33381
+Mpumalanga,Contact,2017,32646
+Mpumalanga,Contact,2018,34885
+Mpumalanga,Contact,2019,35622
+Mpumalanga,Contact,2020,31488
+Mpumalanga,Contact,2021,36099
+Mpumalanga,Contact,2022,36565
+Mpumalanga,Contact Related,2011,6714
+Mpumalanga,Contact Related,2012,6355
+Mpumalanga,Contact Related,2013,5972
+Mpumalanga,Contact Related,2014,6130
+Mpumalanga,Contact Related,2015,6113
+Mpumalanga,Contact Related,2016,5834
+Mpumalanga,Contact Related,2017,5773
+Mpumalanga,Contact Related,2018,6031
+Mpumalanga,Contact Related,2019,6200
+Mpumalanga,Contact Related,2020,5703
+Mpumalanga,Contact Related,2021,6272
+Mpumalanga,Contact Related,2022,6024
+Mpumalanga,Police Action,2011,8657
+Mpumalanga,Police Action,2012,10740
+Mpumalanga,Police Action,2013,11534
+Mpumalanga,Police Action,2014,12929
+Mpumalanga,Police Action,2015,14539
+Mpumalanga,Police Action,2016,16902
+Mpumalanga,Police Action,2017,18434
+Mpumalanga,Police Action,2018,15205
+Mpumalanga,Police Action,2019,13267
+Mpumalanga,Police Action,2020,7167
+Mpumalanga,Police Action,2021,7667
+Mpumalanga,Police Action,2022,7262
+Mpumalanga,Other Serious,2011,30893
+Mpumalanga,Other Serious,2012,31130
+Mpumalanga,Other Serious,2013,27795
+Mpumalanga,Other Serious,2014,26882
+Mpumalanga,Other Serious,2015,26546
+Mpumalanga,Other Serious,2016,27060
+Mpumalanga,Other Serious,2017,25492
+Mpumalanga,Other Serious,2018,25235
+Mpumalanga,Other Serious,2019,24367
+Mpumalanga,Other Serious,2020,21271
+Mpumalanga,Other Serious,2021,21914
+Mpumalanga,Other Serious,2022,22758
+Mpumalanga,Property Related,2011,36169
+Mpumalanga,Property Related,2012,36312
+Mpumalanga,Property Related,2013,35978
+Mpumalanga,Property Related,2014,36218
+Mpumalanga,Property Related,2015,36107
+Mpumalanga,Property Related,2016,36666
+Mpumalanga,Property Related,2017,35716
+Mpumalanga,Property Related,2018,35008
+Mpumalanga,Property Related,2019,33035
+Mpumalanga,Property Related,2020,27237
+Mpumalanga,Property Related,2021,25176
+Mpumalanga,Property Related,2022,26434
+Mpumalanga,Sexual Offences,2011,3955
+Mpumalanga,Sexual Offences,2012,4065
+Mpumalanga,Sexual Offences,2013,3797
+Mpumalanga,Sexual Offences,2014,3474
+Mpumalanga,Sexual Offences,2015,3331
+Mpumalanga,Sexual Offences,2016,3216
+Mpumalanga,Sexual Offences,2017,3198
+Mpumalanga,Sexual Offences,2018,3470
+Mpumalanga,Sexual Offences,2019,3513
+Mpumalanga,Sexual Offences,2020,3134
+Mpumalanga,Sexual Offences,2021,3553
+Mpumalanga,Sexual Offences,2022,3321
+Northern Cape,Aggravated Robberies,2011,967
+Northern Cape,Aggravated Robberies,2012,1239
+Northern Cape,Aggravated Robberies,2013,1402
+Northern Cape,Aggravated Robberies,2014,1446
+Northern Cape,Aggravated Robberies,2015,1387
+Northern Cape,Aggravated Robberies,2016,1505
+Northern Cape,Aggravated Robberies,2017,1639
+Northern Cape,Aggravated Robberies,2018,1780
+Northern Cape,Aggravated Robberies,2019,1643
+Northern Cape,Aggravated Robberies,2020,1426
+Northern Cape,Aggravated Robberies,2021,377
+Northern Cape,Aggravated Robberies,2022,470
+Northern Cape,Contact,2011,18038
+Northern Cape,Contact,2012,18649
+Northern Cape,Contact,2013,18943
+Northern Cape,Contact,2014,18877
+Northern Cape,Contact,2015,18971
+Northern Cape,Contact,2016,18105
+Northern Cape,Contact,2017,17380
+Northern Cape,Contact,2018,17891
+Northern Cape,Contact,2019,17591
+Northern Cape,Contact,2020,15309
+Northern Cape,Contact,2021,16847
+Northern Cape,Contact,2022,18830
+Northern Cape,Contact Related,2011,2969
+Northern Cape,Contact Related,2012,3279
+Northern Cape,Contact Related,2013,3250
+Northern Cape,Contact Related,2014,3381
+Northern Cape,Contact Related,2015,3256
+Northern Cape,Contact Related,2016,3103
+Northern Cape,Contact Related,2017,3083
+Northern Cape,Contact Related,2018,3405
+Northern Cape,Contact Related,2019,3241
+Northern Cape,Contact Related,2020,3155
+Northern Cape,Contact Related,2021,3793
+Northern Cape,Contact Related,2022,4272
+Northern Cape,Police Action,2011,3597
+Northern Cape,Police Action,2012,3749
+Northern Cape,Police Action,2013,4093
+Northern Cape,Police Action,2014,4436
+Northern Cape,Police Action,2015,5183
+Northern Cape,Police Action,2016,6084
+Northern Cape,Police Action,2017,6495
+Northern Cape,Police Action,2018,4573
+Northern Cape,Police Action,2019,3316
+Northern Cape,Police Action,2020,2594
+Northern Cape,Police Action,2021,2487
+Northern Cape,Police Action,2022,2901
+Northern Cape,Other Serious,2011,9260
+Northern Cape,Other Serious,2012,9135
+Northern Cape,Other Serious,2013,9353
+Northern Cape,Other Serious,2014,9794
+Northern Cape,Other Serious,2015,9629
+Northern Cape,Other Serious,2016,9619
+Northern Cape,Other Serious,2017,9277
+Northern Cape,Other Serious,2018,9924
+Northern Cape,Other Serious,2019,10538
+Northern Cape,Other Serious,2020,8777
+Northern Cape,Other Serious,2021,9942
+Northern Cape,Other Serious,2022,11876
+Northern Cape,Property Related,2011,11081
+Northern Cape,Property Related,2012,12533
+Northern Cape,Property Related,2013,12886
+Northern Cape,Property Related,2014,13030
+Northern Cape,Property Related,2015,13212
+Northern Cape,Property Related,2016,13407
+Northern Cape,Property Related,2017,12800
+Northern Cape,Property Related,2018,13420
+Northern Cape,Property Related,2019,12735
+Northern Cape,Property Related,2020,11428
+Northern Cape,Property Related,2021,10782
+Northern Cape,Property Related,2022,12510
+Northern Cape,Sexual Offences,2011,1722
+Northern Cape,Sexual Offences,2012,1826
+Northern Cape,Sexual Offences,2013,1731
+Northern Cape,Sexual Offences,2014,1578
+Northern Cape,Sexual Offences,2015,1719
+Northern Cape,Sexual Offences,2016,1587
+Northern Cape,Sexual Offences,2017,1538
+Northern Cape,Sexual Offences,2018,1578
+Northern Cape,Sexual Offences,2019,1590
+Northern Cape,Sexual Offences,2020,1295
+Northern Cape,Sexual Offences,2021,1317
+Northern Cape,Sexual Offences,2022,1531
+North West,Aggravated Robberies,2011,5366
+North West,Aggravated Robberies,2012,5271
+North West,Aggravated Robberies,2013,5409
+North West,Aggravated Robberies,2014,5977
+North West,Aggravated Robberies,2015,6281
+North West,Aggravated Robberies,2016,7017
+North West,Aggravated Robberies,2017,6825
+North West,Aggravated Robberies,2018,7023
+North West,Aggravated Robberies,2019,6807
+North West,Aggravated Robberies,2020,5733
+North West,Aggravated Robberies,2021,3071
+North West,Aggravated Robberies,2022,3170
+North West,Contact,2011,36112
+North West,Contact,2012,36067
+North West,Contact,2013,34473
+North West,Contact,2014,35082
+North West,Contact,2015,35224
+North West,Contact,2016,35483
+North West,Contact,2017,36604
+North West,Contact,2018,37487
+North West,Contact,2019,36286
+North West,Contact,2020,31636
+North West,Contact,2021,36782
+North West,Contact,2022,40642
+North West,Contact Related,2011,6913
+North West,Contact Related,2012,6706
+North West,Contact Related,2013,6201
+North West,Contact Related,2014,6231
+North West,Contact Related,2015,6076
+North West,Contact Related,2016,6064
+North West,Contact Related,2017,6144
+North West,Contact Related,2018,6632
+North West,Contact Related,2019,6210
+North West,Contact Related,2020,5988
+North West,Contact Related,2021,6739
+North West,Contact Related,2022,7171
+North West,Police Action,2011,9894
+North West,Police Action,2012,11868
+North West,Police Action,2013,13882
+North West,Police Action,2014,14196
+North West,Police Action,2015,15537
+North West,Police Action,2016,15524
+North West,Police Action,2017,17485
+North West,Police Action,2018,13807
+North West,Police Action,2019,12028
+North West,Police Action,2020,5661
+North West,Police Action,2021,8494
+North West,Police Action,2022,10210
+North West,Other Serious,2011,25208
+North West,Other Serious,2012,26448
+North West,Other Serious,2013,26064
+North West,Other Serious,2014,24229
+North West,Other Serious,2015,23151
+North West,Other Serious,2016,21767
+North West,Other Serious,2017,20020
+North West,Other Serious,2018,21840
+North West,Other Serious,2019,20358
+North West,Other Serious,2020,18245
+North West,Other Serious,2021,21647
+North West,Other Serious,2022,23921
+North West,Property Related,2011,30389
+North West,Property Related,2012,31725
+North West,Property Related,2013,30657
+North West,Property Related,2014,31674
+North West,Property Related,2015,31469
+North West,Property Related,2016,33503
+North West,Property Related,2017,32255
+North West,Property Related,2018,33039
+North West,Property Related,2019,29877
+North West,Property Related,2020,25247
+North West,Property Related,2021,25020
+North West,Property Related,2022,26082
+North West,Sexual Offences,2011,4885
+North West,Sexual Offences,2012,5228
+North West,Sexual Offences,2013,4616
+North West,Sexual Offences,2014,4585
+North West,Sexual Offences,2015,4164
+North West,Sexual Offences,2016,4326
+North West,Sexual Offences,2017,4182
+North West,Sexual Offences,2018,4021
+North West,Sexual Offences,2019,3824
+North West,Sexual Offences,2020,3262
+North West,Sexual Offences,2021,3737
+North West,Sexual Offences,2022,3888
+Western Cape,Aggravated Robberies,2011,13739
+Western Cape,Aggravated Robberies,2012,16681
+Western Cape,Aggravated Robberies,2013,19484
+Western Cape,Aggravated Robberies,2014,23116
+Western Cape,Aggravated Robberies,2015,23732
+Western Cape,Aggravated Robberies,2016,24032
+Western Cape,Aggravated Robberies,2017,24329
+Western Cape,Aggravated Robberies,2018,24065
+Western Cape,Aggravated Robberies,2019,24549
+Western Cape,Aggravated Robberies,2020,19050
+Western Cape,Aggravated Robberies,2021,6953
+Western Cape,Aggravated Robberies,2022,7150
+Western Cape,Contact,2011,97301
+Western Cape,Contact,2012,103346
+Western Cape,Contact,2013,108589
+Western Cape,Contact,2014,116168
+Western Cape,Contact,2015,116858
+Western Cape,Contact,2016,114704
+Western Cape,Contact,2017,112996
+Western Cape,Contact,2018,113987
+Western Cape,Contact,2019,113508
+Western Cape,Contact,2020,94141
+Western Cape,Contact,2021,102057
+Western Cape,Contact,2022,112707
+Western Cape,Contact Related,2011,24731
+Western Cape,Contact Related,2012,25579
+Western Cape,Contact Related,2013,27107
+Western Cape,Contact Related,2014,30071
+Western Cape,Contact Related,2015,29974
+Western Cape,Contact Related,2016,29997
+Western Cape,Contact Related,2017,28763
+Western Cape,Contact Related,2018,29356
+Western Cape,Contact Related,2019,27837
+Western Cape,Contact Related,2020,24892
+Western Cape,Contact Related,2021,27050
+Western Cape,Contact Related,2022,28595
+Western Cape,Police Action,2011,97179
+Western Cape,Police Action,2012,100296
+Western Cape,Police Action,2013,101967
+Western Cape,Police Action,2014,105043
+Western Cape,Police Action,2015,108782
+Western Cape,Police Action,2016,123477
+Western Cape,Police Action,2017,133521
+Western Cape,Police Action,2018,97223
+Western Cape,Police Action,2019,78174
+Western Cape,Police Action,2020,50998
+Western Cape,Police Action,2021,68641
+Western Cape,Police Action,2022,79106
+Western Cape,Other Serious,2011,120526
+Western Cape,Other Serious,2012,118224
+Western Cape,Other Serious,2013,119540
+Western Cape,Other Serious,2014,122225
+Western Cape,Other Serious,2015,116510
+Western Cape,Other Serious,2016,112239
+Western Cape,Other Serious,2017,105822
+Western Cape,Other Serious,2018,103847
+Western Cape,Other Serious,2019,94591
+Western Cape,Other Serious,2020,73600
+Western Cape,Other Serious,2021,84962
+Western Cape,Other Serious,2022,96174
+Western Cape,Property Related,2011,104013
+Western Cape,Property Related,2012,114122
+Western Cape,Property Related,2013,116773
+Western Cape,Property Related,2014,113472
+Western Cape,Property Related,2015,111610
+Western Cape,Property Related,2016,104754
+Western Cape,Property Related,2017,97630
+Western Cape,Property Related,2018,92015
+Western Cape,Property Related,2019,86337
+Western Cape,Property Related,2020,64739
+Western Cape,Property Related,2021,61486
+Western Cape,Property Related,2022,66272
+Western Cape,Sexual Offences,2011,8809
+Western Cape,Sexual Offences,2012,8440
+Western Cape,Sexual Offences,2013,7760
+Western Cape,Sexual Offences,2014,7369
+Western Cape,Sexual Offences,2015,7130
+Western Cape,Sexual Offences,2016,7115
+Western Cape,Sexual Offences,2017,7075
+Western Cape,Sexual Offences,2018,7043
+Western Cape,Sexual Offences,2019,7303
+Western Cape,Sexual Offences,2020,6437
+Western Cape,Sexual Offences,2021,7163
+Western Cape,Sexual Offences,2022,7310
