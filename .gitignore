@@ -8,8 +8,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files - raw and shapefiles (too large for GitHub)
-data/shapefiles/
-data/raw/
 
 # Power BI
 *.pbix
