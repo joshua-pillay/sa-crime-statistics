@@ -34,3 +34,6 @@ Thumbs.db
 *.synctex.gz
 *.bbl
 *.blg
+notebooks/.jupyter/
+notebooks/.virtual_documents/
+notebooks/anaconda_projects/
