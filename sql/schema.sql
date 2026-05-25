@@ -1,7 +1,7 @@
 -- ================================================================
 -- schema.sql
--- South African Crime Statistics (2010-2022)
--- Stage 3 - SQL Table Creation
+-- South African Crime Statistics (2011-2022)
+-- Stage 7 - SQL Table Creation
 -- ================================================================
 -- Estbalishes the sa_crime table and creates a performance index.
 -- Execute this in DBeaver after loading the database sa_crime.db
@@ -10,6 +10,7 @@
 -- Data source: data/processed/sa_crime_clean.csv
 -- Loaded into: data/sql/sa_crime.db (SQLite)
 -- ================================================================
+
 -- Establishes sa_crime table with correct column types.
 -- 'province' and 'crime_category' are variables of text data type.
 -- 'financial_year' is an integer variable parsed to four digits 
