@@ -1,0 +1,109 @@
+province,financial_year,total_crimes
+Eastern Cape,2011,231345
+Eastern Cape,2012,225773
+Eastern Cape,2013,228125
+Eastern Cape,2014,219953
+Eastern Cape,2015,212362
+Eastern Cape,2016,215812
+Eastern Cape,2017,211769
+Eastern Cape,2018,214167
+Eastern Cape,2019,211882
+Eastern Cape,2020,178610
+Eastern Cape,2021,185792
+Eastern Cape,2022,198141
+Free State,2011,134385
+Free State,2012,140324
+Free State,2013,134146
+Free State,2014,126272
+Free State,2015,124537
+Free State,2016,121310
+Free State,2017,115172
+Free State,2018,114482
+Free State,2019,108175
+Free State,2020,91985
+Free State,2021,100988
+Free State,2022,110551
+Gauteng,2011,607683
+Gauteng,2012,614037
+Gauteng,2013,668839
+Gauteng,2014,672374
+Gauteng,2015,658618
+Gauteng,2016,661986
+Gauteng,2017,648095
+Gauteng,2018,627273
+Gauteng,2019,611336
+Gauteng,2020,476419
+Gauteng,2021,497291
+Gauteng,2022,530948
+KwaZulu-Natal,2011,369899
+KwaZulu-Natal,2012,384584
+KwaZulu-Natal,2013,377435
+KwaZulu-Natal,2014,369375
+KwaZulu-Natal,2015,363288
+KwaZulu-Natal,2016,362839
+KwaZulu-Natal,2017,362746
+KwaZulu-Natal,2018,348629
+KwaZulu-Natal,2019,341038
+KwaZulu-Natal,2020,276613
+KwaZulu-Natal,2021,292777
+KwaZulu-Natal,2022,303938
+Limpopo,2011,120051
+Limpopo,2012,119490
+Limpopo,2013,124621
+Limpopo,2014,132399
+Limpopo,2015,136945
+Limpopo,2016,134497
+Limpopo,2017,133592
+Limpopo,2018,130291
+Limpopo,2019,122328
+Limpopo,2020,104703
+Limpopo,2021,111179
+Limpopo,2022,122307
+Mpumalanga,2011,128730
+Mpumalanga,2012,127492
+Mpumalanga,2013,122103
+Mpumalanga,2014,123175
+Mpumalanga,2015,125369
+Mpumalanga,2016,129761
+Mpumalanga,2017,128016
+Mpumalanga,2018,126925
+Mpumalanga,2019,123676
+Mpumalanga,2020,103004
+Mpumalanga,2021,105832
+Mpumalanga,2022,107416
+North West,2011,118767
+North West,2012,123313
+North West,2013,121302
+North West,2014,121974
+North West,2015,121902
+North West,2016,123684
+North West,2017,123515
+North West,2018,123849
+North West,2019,115390
+North West,2020,95772
+North West,2021,105490
+North West,2022,115084
+Northern Cape,2011,47634
+Northern Cape,2012,50410
+Northern Cape,2013,51658
+Northern Cape,2014,52542
+Northern Cape,2015,53357
+Northern Cape,2016,53410
+Northern Cape,2017,52212
+Northern Cape,2018,52571
+Northern Cape,2019,50654
+Northern Cape,2020,43984
+Northern Cape,2021,45545
+Northern Cape,2022,52390
+Western Cape,2011,466298
+Western Cape,2012,486688
+Western Cape,2013,501220
+Western Cape,2014,517464
+Western Cape,2015,514596
+Western Cape,2016,516318
+Western Cape,2017,510136
+Western Cape,2018,467536
+Western Cape,2019,432299
+Western Cape,2020,333857
+Western Cape,2021,358312
+Western Cape,2022,397314
