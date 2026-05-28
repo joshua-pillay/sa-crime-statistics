@@ -43,7 +43,7 @@ sa-crime-statistics/
 - `04_arima.ipynb`
 - `05_summary_export.ipynb`
 4. Open `matlab/trend_analysis.mlx` in MATLAB
-5. Open SQL scripts in DB Browser for SQLite against `data/sql/sa_crime.db`
+5. Open SQL scripts in DBeaver against `data/sql/sa_crime.db`
 6. Open `powerbi/sa_crime_dashboard.pbix` in Power BI Desktop
 
 ## Data Sources
